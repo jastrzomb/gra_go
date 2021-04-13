@@ -1,1 +1,1 @@
-#this project is a siplified game of go
+#this project is a game of othello
